@@ -6,7 +6,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Index
 - [Awesome Cisco DNA Center](#awesome-cisco-dna-center)
-  - [Getting Started]()
+  - [Getting Started](#getting-started)
   - [Platform / SDK](#platform--sdk)
   - [Plug and Play](#plug-and-play-pnp)
   - [Automation](#automation)
