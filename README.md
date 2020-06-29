@@ -23,7 +23,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Platform / SDK
 - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk)
-![](https://img.shields.io/badge/python-blue.svg)
+<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)
   - Cisco DNA Center Python SDK
 - [DNAC-Python-Wrapper](https://developer.cisco.com/codeexchange/github/repo/rsayle/DNAC-Python-Wrapper)
 ![](https://img.shields.io/badge/python-blue.svg)
@@ -35,7 +35,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Plug and Play (PNP)
 - [DNAC-onboarding-tools](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-onboarding-tools)
-![](https://img.shields.io/badge/python-blue.svg)
+<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)
   - Cisco DNA Center PnP-BulkConfig app allows uploading of "predefined" rules to onboard network devices.
 - [DNAC-ClaimAP-Mobile-App](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-ClaimAP-Mobile-App)
 ![](https://img.shields.io/badge/javascript-blue.svg)
