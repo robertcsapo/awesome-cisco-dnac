@@ -23,19 +23,18 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Platform / SDK
 - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk)
-<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)
+<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)</a>
   - Cisco DNA Center Python SDK
 - [DNAC-Python-Wrapper](https://developer.cisco.com/codeexchange/github/repo/rsayle/DNAC-Python-Wrapper)
 ![](https://img.shields.io/badge/python-blue.svg)
   - A python wrapper for easily accessing a Cisco DNA Center cluster
 - [Cisco.DnaCenter.Api](https://developer.cisco.com/codeexchange/github/repo/panoramicdata/Cisco.DnaCenter.Api)
-![](https://img.shields.io/badge/-c%23-blue.svg)
+<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=C">![](https://img.shields.io/badge/-c%23-blue.svg)</a>
   - Right-click on the project and click "Manage Nuget packages"
-
 
 ## Plug and Play (PNP)
 - [DNAC-onboarding-tools](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-onboarding-tools)
-<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)
+<a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)</a>
   - Cisco DNA Center PnP-BulkConfig app allows uploading of "predefined" rules to onboard network devices.
 - [DNAC-ClaimAP-Mobile-App](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-ClaimAP-Mobile-App)
 ![](https://img.shields.io/badge/javascript-blue.svg)
