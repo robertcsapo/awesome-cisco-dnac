@@ -6,9 +6,12 @@ Your contributions are always welcome!
 
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
-    * Write down the reason why the library is awesome.
-* Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
-    * Keep descriptions concise and **short**.
+    * Write down the reason why the library is awesome or why you like it :)
+* Add the link:
+  * `- [project-name](http://example.com/)`
+  * `![](https://img.shields.io/badge/python-blue.svg)` (optional)
+  * `    - Description`
+  * Keep descriptions concise and **short**.
 * Add a section if needed.
     * Add the section description.
     * Add the section title to Table of Contents.
