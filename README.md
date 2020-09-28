@@ -108,6 +108,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnacenter_ip_address_conflict_prevention](https://github.com/cisco-en-programmability/dnacenter_ip_address_conflict_prevention)
 ![](https://img.shields.io/badge/python-blue.svg)
   - This repo includes sample code to prevent the configuration of new IP addresses that may create IP address conflicts. It will use Cisco DNA Center REST APIs.
+- [dnac-basic-build](https://github.com/edsland/dnac-basic-build)
+![](https://img.shields.io/badge/python-blue.svg)
+  - This repo contain a few Python scripts to help you quickly stand up DNAC Center basic configurations.
 
 
 ## Security
