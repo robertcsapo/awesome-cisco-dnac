@@ -111,6 +111,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnac-basic-build](https://github.com/edsland/dnac-basic-build)
 ![](https://img.shields.io/badge/python-blue.svg)
   - This repo contain a few Python scripts to help you quickly stand up DNAC Center basic configurations.
+- [cisco-dnac-port-assignment](https://github.com/obrigg/cisco-dnac-port-assignment)
+![](https://img.shields.io/badge/python-blue.svg)
+  - This repo includes code for a Webex Teams bot that will allow Vlan to access port assignment using configuration templates. The code automated template creating, project creation, network-profile creation and site assignment as well as template deployment. It can easily be modified to perform other actions on interfaces.
 
 
 ## Security
