@@ -139,6 +139,12 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - Receive Events from Cisco DNA Center and push the information to Cisco Webex Teams
 - [dnacenter_splunk_add_on_app](https://github.com/cisco-en-programmability/dnacenter_splunk_add_on_app)
   - This repo includes a simple Splunk Add-On app that will collect device inventory and overall network health data from Cisco DNA Center.
+- [DNAC_aiohttp_client](https://github.com/yijxiang/DNAC_aiohttp_client)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Use aiohttp async client to call APIs of cisco DNAC, runs as "telegraf" for influxdb
+- [dnacenter_path_trace](https://github.com/cisco-en-programmability/dnacenter_path_trace)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Sample code for performing a path trace between two nodes in the Cisco DNA Center managed network
 
 
 ## Reports
@@ -148,6 +154,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - Cisco DNA Center - Interfaces Speed (custom) Report
 - [DNAC-Monitoring-App](https://developer.cisco.com/codeexchange/github/repo/oborys/DNAC-Monitoring-App)
   - DNAC Monitoring App extends the basic features of DNA-C. This App help collect information about devices and manage network issues.
+- [dnacenter_device_report](https://github.com/cisco-en-programmability/dnacenter_device_report)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Sample script to generate a Cisco DNA Center managed devices report
 
 
 ## Resources
@@ -160,6 +169,12 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - [Sandbox](https://developer.cisco.com/docs/sandbox/#!networking/networking-overview)
   - [Code Exchange](https://developer.cisco.com/codeexchange/platforms/dnac)
   - [Automation Exchange](https://developer.cisco.com/network-automation/listing/#product=Cisco%20DNA%20Center)
+- Blogs
+  - [Cisco Blogs](https://blogs.cisco.com/tag/cisco-dna-center)
+  - [Postman Blog](https://blog.postman.com/introducing-cisco-devnet-apis-to-the-postman-api-network-security-networking-device-and-video-conferencing-apis/)
+  - [Jacob Zartmann](https://zartmann.dk/categories/dnac/)
+  - [Wim Wauters](https://blog.wimwauters.com/tags/dnac/)
+  - [Hawar Koyi](https://hawar.no/?s=dna+center)
 
 
 # Contributing
@@ -171,3 +186,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 # Maintainers
 
 - Robert Csapo ([@robertcsapo](https://twitter.com/robertcsapo))
+- Oren Brigg ([@orenbrigg](https://twitter.com/orenbrigg))
