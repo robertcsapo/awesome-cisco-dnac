@@ -92,15 +92,23 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   ![](https://img.shields.io/badge/python-blue.svg)
     - These scripts demonstrate the template programmer API on Cisco DNA Center. The scripts assume the templates have been setup on Cisco DNA center in advance.
   - [DNAC-TemplateTool](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-TemplateTool)
+  ![](https://img.shields.io/badge/python-blue.svg)
     - A tool for backing up and restoring templates
   - [Automate-Creation-of-DNAC-template-to-enable-packet-capture-on-IOS-XE](https://developer.cisco.com/codeexchange/github/repo/Abhijith-R/Automate-Creation-of-DNAC-template-to-enable-packet-capture-on-IOS-XE)
+  ![](https://img.shields.io/badge/python-blue.svg)
     - A python script to automate the packet capture on IOS-XE, create a pcap file and copy it to local machine using secure copy.
   - [vtlcli-docker](https://developer.cisco.com/codeexchange/github/repo/nickrusso42518/vtlcli-docker)
     - Docker wrapper for VTL template development
+  - [dnacenter_configuration_templates](https://github.com/cisco-en-programmability/dnacenter_configuration_templates)
+  ![](https://img.shields.io/badge/python-blue.svg)
+    - This repo includes all the functions required to create a new Cisco DNA Center Project, new CLI template, commit and deploy the CLI template to a device
 
 
 - [DNAC-AppHostingAPI](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-AppHostingAPI)
   - This repository contains a few simple scripts to get started with Cisco DNAC Application Hosting API.
+- [cisco-dnac-app-hosting-import-docker-images](https://github.com/robertcsapo/cisco-dnac-app-hosting-import-docker-images)
+![](https://img.shields.io/badge/python-blue.svg)
+  - ciscodnacapphosting Python SDK for Cisco DNA Center Application Hosting API
 - [DNAC-Site_Automation](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-Site_Automation)
   - Automate Site Creation and Automation and Device assignment using Cisco DNA Center APIs
 - [dna_workflows](https://developer.cisco.com/codeexchange/github/repo/cunningr/dna_workflows)
@@ -140,6 +148,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [cisco-dnac-platform-webex-notifications](https://github.com/robertcsapo/cisco-dnac-platform-webex-notifications)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Receive Events from Cisco DNA Center and push the information to Cisco Webex Teams
+- [dnacenter_webhook_receiver](https://github.com/cisco-en-programmability/dnacenter_webhook_receiver)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Sample code for a Cisco DNA Center Webhook Receiver
 - [dnacenter_splunk_add_on_app](https://github.com/cisco-en-programmability/dnacenter_splunk_add_on_app)
   - This repo includes a simple Splunk Add-On app that will collect device inventory and overall network health data from Cisco DNA Center.
 - [DNAC_aiohttp_client](https://github.com/yijxiang/DNAC_aiohttp_client)
