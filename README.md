@@ -102,6 +102,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - [dnacenter_configuration_templates](https://github.com/cisco-en-programmability/dnacenter_configuration_templates)
   ![](https://img.shields.io/badge/python-blue.svg)
     - This repo includes all the functions required to create a new Cisco DNA Center Project, new CLI template, commit and deploy the CLI template to a device
+  - [DNAC-DNS-Automation](https://developer.cisco.com/codeexchange/github/repo/barryqy/DNAC-DNS-Automation)
+  ![](https://img.shields.io/badge/python-blue.svg)
+    - Automatically update device management from IP to DNS
 
 
 - [DNAC-AppHostingAPI](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-AppHostingAPI)
