@@ -131,6 +131,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [cisco-dnac-port-assignment](https://github.com/obrigg/cisco-dnac-port-assignment)
 ![](https://img.shields.io/badge/python-blue.svg)
   - This repo includes code for a Webex Teams bot that will allow Vlan to access port assignment using configuration templates. The code automated template creating, project creation, network-profile creation and site assignment as well as template deployment. It can easily be modified to perform other actions on interfaces.
+- [DNACenterInventoryWebexIntegration](https://developer.cisco.com/codeexchange/github/repo/gve-sw/DNACenterInventoryWebexIntegration)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Updating Inventory using DNA-C with Chatbot Notification bot
 
 
 ## Security
