@@ -159,6 +159,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnacenter_path_trace](https://github.com/cisco-en-programmability/dnacenter_path_trace)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Sample code for performing a path trace between two nodes in the Cisco DNA Center managed network
+- [AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform](https://developer.cisco.com/codeexchange/github/repo/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform)
+![](https://img.shields.io/badge/python-blue.svg)
+  - AWS Serverless Architecture based Cisco DNA Demo Platform
 
 
 ## Reports
