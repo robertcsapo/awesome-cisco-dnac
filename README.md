@@ -67,6 +67,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [DNAC_AP_PnP](https://github.com/zapodeanu/DNAC_AP_PnP)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Workflow automation for Access Points PnP Provisioning using DNA Center and ServiceNow
+- [dnac_pnp](https://developer.cisco.com/codeexchange/github/repo/nttde/dnac_pnp)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Cisco DNA Center Plug and Play Automation Engine
 
 
 ## Automation
