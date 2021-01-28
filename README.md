@@ -207,6 +207,7 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - [Jacob Zartmann](https://zartmann.dk/categories/dnac/)
   - [Wim Wauters](https://blog.wimwauters.com/tags/dnac/)
   - [Hawar Koyi](https://hawar.no/?s=dna+center)
+  - [3 Simple ways to use Cisco DNA Center Platform APIs](https://robertcsapo.medium.com/3-simple-ways-to-use-cisco-dna-center-platform-apis-7eee49b76287)
 
 
 # Contributing
