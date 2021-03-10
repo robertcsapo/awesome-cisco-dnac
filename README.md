@@ -134,9 +134,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [cisco-dnac-port-assignment](https://github.com/obrigg/cisco-dnac-port-assignment)
 ![](https://img.shields.io/badge/python-blue.svg)
   - This repo includes code for a Webex Teams bot that will allow Vlan to access port assignment using configuration templates. The code automated template creating, project creation, network-profile creation and site assignment as well as template deployment. It can easily be modified to perform other actions on interfaces.
-- [DNACenterInventoryWebexIntegration](https://developer.cisco.com/codeexchange/github/repo/gve-sw/DNACenterInventoryWebexIntegration)
+- [ciscodnacbackupctl](https://github.com/cskoglun/ciscodnacbackupctl)
 ![](https://img.shields.io/badge/python-blue.svg)
-  - Updating Inventory using DNA-C with Chatbot Notification bot
+  - Cisco DNA Center Backup Tool (as a CLI tool)
 
 
 ## Security
@@ -163,8 +163,6 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnacenter_webhook_receiver](https://github.com/cisco-en-programmability/dnacenter_webhook_receiver)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Sample code for a Cisco DNA Center Webhook Receiver
-- [dnacenter_splunk_add_on_app](https://github.com/cisco-en-programmability/dnacenter_splunk_add_on_app)
-  - This repo includes a simple Splunk Add-On app that will collect device inventory and overall network health data from Cisco DNA Center.
 - [DNAC_aiohttp_client](https://github.com/yijxiang/DNAC_aiohttp_client)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Use aiohttp async client to call APIs of cisco DNAC, runs as "telegraf" for influxdb
@@ -178,6 +176,18 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 ![](https://img.shields.io/badge/python-blue.svg)
   - Cisco DNA Center Client Proximity API and Event Notifications may be used for pandemic use cases.
 
+## Integrations
+
+
+- [DNACenterInventoryWebexIntegration](https://developer.cisco.com/codeexchange/github/repo/gve-sw/DNACenterInventoryWebexIntegration)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Updating Inventory using DNA-C with Chatbot Notification bot
+- [dnacenter_splunk_add_on_app](https://github.com/cisco-en-programmability/dnacenter_splunk_add_on_app)
+  - This repo includes a simple Splunk Add-On app that will collect device inventory and overall network health data from Cisco DNA Center.
+- [ciscodnacnetbox](https://developer.cisco.com/codeexchange/github/repo/robertcsapo/ciscodnacnetbox)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Cisco DNA Center Integration with NetBox
+  
 
 ## Reports
 
