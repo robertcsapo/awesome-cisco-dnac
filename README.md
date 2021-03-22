@@ -42,12 +42,15 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk)
 <a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=Python">![](https://img.shields.io/badge/python-blue.svg)</a>
   - Cisco DNA Center Python SDK
-- [DNAC-Python-Wrapper](https://developer.cisco.com/codeexchange/github/repo/rsayle/DNAC-Python-Wrapper)
-![](https://img.shields.io/badge/python-blue.svg)
-  - A python wrapper for easily accessing a Cisco DNA Center cluster
+- [dnacenter-go-sdk](https://github.com/cisco-en-programmability/dnacenter-go-sdk)
+![](https://img.shields.io/badge/golang-blue.svg)
+  - Cisco DNA Center SDK for Go Programmaing Language
 - [Cisco.DnaCenter.Api](https://developer.cisco.com/codeexchange/github/repo/panoramicdata/Cisco.DnaCenter.Api)
 <a href="https://developer.cisco.com/codeexchange/platforms/dnac#lang=C">![](https://img.shields.io/badge/-c%23-blue.svg)</a>
   - Right-click on the project and click "Manage Nuget packages"
+- [DNAC-Python-Wrapper](https://developer.cisco.com/codeexchange/github/repo/rsayle/DNAC-Python-Wrapper)
+![](https://img.shields.io/badge/python-blue.svg)
+  - A python wrapper for easily accessing a Cisco DNA Center cluster
 - [Cisco DNA Center AURA (Audit & Upgrade Readiness)](https://github.com/CiscoDevNet/DNAC-AURA)
   ![](https://img.shields.io/badge/python-blue.svg)
     - The Cisco DNA Center AURA (Audit & Upgrade Readiness) command line tool performs a variety of health, scale & upgrade readiness checks for the DNA Center and the rest of the Fabric network.
@@ -91,6 +94,11 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - [DNAC_ISE_ASA_SGACLsync](https://developer.cisco.com/codeexchange/github/repo/gve-sw/DNAC_ISE_ASA_SGACLsync)
   ![](https://img.shields.io/badge/python-blue.svg)
     - An application to automatically apply SGACLs created in Cisco DNA Center and ISE to ASAs using Ansible
+
+
+- Terraform
+  - [terraform-provider-dnacenter](https://github.com/cisco-en-programmability/terraform-provider-dnacenter)
+    - The Cisco DNA Center provider is used to interact with Cisco DNA Center APIs. The provider needs to be configured with the proper credentials before it can be used.
 
 
 - Templates
