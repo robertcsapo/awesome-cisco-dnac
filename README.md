@@ -111,6 +111,8 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - [DNAC-DNS-Automation](https://developer.cisco.com/codeexchange/github/repo/barryqy/DNAC-DNS-Automation)
   ![](https://img.shields.io/badge/python-blue.svg)
     - Automatically update device management from IP to DNS
+  - [DNAC-TEMPLATES](https://github.com/kebaldwi/DNAC-TEMPLATES)
+    - Examples of Templates used in DNA Center with Velocity Scripting, Variables, and Composite Approaches
 
 
 - [DNAC-AppHostingAPI](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/DNAC-AppHostingAPI)
