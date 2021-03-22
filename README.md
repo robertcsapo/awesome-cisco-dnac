@@ -137,6 +137,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [ciscodnacbackupctl](https://github.com/cskoglun/ciscodnacbackupctl)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Cisco DNA Center Backup Tool (as a CLI tool)
+- [migrate-prime-to-dnac-inventory](https://github.com/LeCoderCat/migrate-prime-to-dnac-inventory)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Export Prime Infrastructure device inventory and import it into DNA Center inventory
 
 
 ## Security
