@@ -153,6 +153,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [migrate-prime-to-dnac-inventory](https://github.com/LeCoderCat/migrate-prime-to-dnac-inventory)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Export Prime Infrastructure device inventory and import it into DNA Center inventory
+- [dnac-ise-inventory-compliance](https://developer.cisco.com/codeexchange/github/repo/ebc-conscia/dnac-ise-inventory-compliance)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Compliance checker for devices in DNA Center and Cisco ISE
 
 
 ## Security
