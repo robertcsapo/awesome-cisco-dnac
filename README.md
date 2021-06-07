@@ -221,6 +221,10 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnacenter_device_report](https://github.com/cisco-en-programmability/dnacenter_device_report)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Sample script to generate a Cisco DNA Center managed devices report
+- [dnacenter_reports_operations](https://github.com/cisco-en-programmability/dnacenter_reports_operations)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Cisco DNA Center report operations - create and run a new client detail report, receive the webhooks status notifications and download the report when completed.
+
 
 
 ## Resources
