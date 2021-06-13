@@ -253,6 +253,7 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
   - [Wim Wauters](https://blog.wimwauters.com/tags/dnac/)
   - [Hawar Koyi](https://hawar.no/?s=dna+center)
   - [3 Simple ways to use Cisco DNA Center Platform APIs](https://robertcsapo.medium.com/3-simple-ways-to-use-cisco-dna-center-platform-apis-7eee49b76287)
+  - [SD-Access Programmability Part I - creating a Nornir network inventory from DNAC](https://www.theasciiconstruct.com/post/sd-access-programmability-part-i-creating-a-nornir-network-inventory-from-dnac)
 
 
 # Contributing
