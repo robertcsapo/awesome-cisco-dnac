@@ -203,6 +203,9 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 - [dnacenter_proximity_app](https://developer.cisco.com/codeexchange/github/repo/cisco-en-programmability/dnacenter_proximity_app)
 ![](https://img.shields.io/badge/python-blue.svg)
   - Cisco DNA Center Client Proximity API and Event Notifications may be used for pandemic use cases.
+- [cisco-dnac-show-diff-stats](https://developer.cisco.com/codeexchange/github/repo/eiuemura/cisco-dnac-show-diff-stats)
+![](https://img.shields.io/badge/python-blue.svg)
+  - Cisco DNA Center - show difference counter in real-time
 
 ## Integrations
 
