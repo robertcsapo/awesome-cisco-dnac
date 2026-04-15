@@ -245,6 +245,8 @@ See full list of Code Samples on [Cisco DevNet CodeExchange](https://developer.c
 ## Resources
 
 
+- [Cisco DNA Center Simulator](https://dnac.networkershome.com)
+  - Free browser-based Cisco DNA Center simulator covering SD-Access fabric, device onboarding, assurance, and automation. No install, no license, no hardware required. Built by [Networkers Home](https://www.networkershome.com) for student practice.
 - [Cisco DNA Center](https://www.cisco.com/c/en/us/products/cloud-systems-management/dna-center/index.html)
   - [Developer Docs](https://developer.cisco.com/docs/dna-center/)
 - [Cisco DevNet](https://developer.cisco.com/)
